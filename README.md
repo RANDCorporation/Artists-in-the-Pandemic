@@ -1,6 +1,8 @@
 # RAND Commentary – Artists and Cultural Workers in the Pandemic
 ED & Labor Unit
 
+This GitHub repository supports two RAND Commentaries written by James Marrone, Susan Resetar, and Daniel Schwam. The first can be found at the URL: https://www.rand.org/blog/2020/07/the-pandemic-is-a-disaster-for-artists.html. The second can be found at the URL: https://www.rand.org/blog/2020/07/arts-and-cultural-workers-are-especially-vulnerable.html
+
 #### -- Project Status: Completed.
 
 ## Project Description
@@ -38,3 +40,10 @@ Susan Resetar (susanr@rand.org)
 Daniel Schwam (dschwam@rand.org)
 
 * Feel free to contact team leads with any questions or if you are interested in contributing!
+
+## Suggested citations for this repository:
+
+Marrone, James V., Resetar, Susan A., and Schwam, Daniel, “The Pandemic Is a Disaster for Artists” GitHub, RAND Corporation Repository, last updated 4 August 2020. As of August 27, 2020: https://github.com/RANDCorporation/Artists-in-the-Pandemic
+
+Resetar, Susan A., Marrone, James V., and Schwam, Daniel, “Arts and Cultural Workers Are Especially Vulnerable to the Pandemic” GitHub, RAND Corporation Repository, last updated 4 August 2020. As of August 27, 2020: https://github.com/RANDCorporation/Artists-in-the-Pandemic
+
