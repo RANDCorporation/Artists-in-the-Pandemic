@@ -178,7 +178,7 @@ replace art_cat = 1 if occ == 2755 | occ == 2770
  
 * Artists (and related workers) and Photographers, Designers (all), and Writers
 replace art_cat = 2 if occ == 2600 | occ == 2910
-replace art_cat = 2 if occ >= 2631 & occ <= 2630
+replace art_cat = 2 if occ >= 2631 & occ <= 2640
 replace art_cat = 2 if occ == 2850
 
 * Architects (except naval) and Landscape architects, Library, museum, and archival specialists
