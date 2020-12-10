@@ -33,6 +33,9 @@ Data extract from the CPS downloaded on June 23, 2020 by Daniel Schwam.
 Reference: Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles and J. Robert Warren. Integrated Public Use Microdata Series, Current Population Survey: Version 7.0 [dataset]. Minneapolis, MN: IPUMS, 2020. 
 https://doi.org/10.18128/D030.V7.0
 
+Update: December 10, 2020.
+Both do files conducting the analysis for "The Disaster is a Pandemic for Artists" and "Arts and Cultural Workers are Especially Vulnerable" were updated. Originally, designers were being excluded from the analysis because of the following misspecification: 2361 <= occ <= 2630. This has been corrected to the following to ensure designers are included: 2361 <= occ <= 2640.
+
 ## Project Members:
 
 James Marrone (jmarrone@rand.org)
